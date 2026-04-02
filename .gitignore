@@ -1,0 +1,13 @@
+# Image cache (downloaded RWS card images)
+data/img_cache/
+
+# Generated spread results
+data/spread_result.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
